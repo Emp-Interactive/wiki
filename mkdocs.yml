@@ -1,10 +1,10 @@
 site_name: Emperium Ragnarok Wiki
-docs_dir: docs/
+docs_dir: "docs"
 copyright: Copyright &copy; Emperium 2024
 site_author: Emperium
-site_url: https://to-be-defined
+site_url: https://github.com/Emp-Interactive/wiki
 repo_name: wiki
-repo_url: https://github.com/
+repo_url: https://github.com/Emp-Interactive/wiki
 
 theme:
   name: material
@@ -68,3 +68,12 @@ markdown_extensions:
   - pymdownx.superfences
   - toc:
       permalink: true
+
+
+nav:
+  - SOBRE O SERVIDOR: docs/about/index.md
+  - SISTEMAS DO SERVIDOR: docs/systems/index.md
+  - PRINCIPAIS NPCs: docs/npcs/index.md
+  - INSTÂNCIAS: docs/instances/index.md
+  - GUIAS E SUPPORT: docs/support/index.md
+  - TERMOS DE USO: docs/faq/index.md
