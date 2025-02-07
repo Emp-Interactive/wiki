@@ -8,8 +8,8 @@ repo_url: https://github.com/
 
 theme:
   name: material
-  logo: images/white-logo.png
-  favicon: images/colored-logo.png
+  logo: images/logo.png
+  favicon: images/logo.png
   font:
     text: white
   palette:
