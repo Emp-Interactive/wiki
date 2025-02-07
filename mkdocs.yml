@@ -1,37 +1,22 @@
 site_name: Emperium Wiki
+site_url: https://emp-interactive.github.io/wiki/
+repo_url: https://github.com/Emp-Interactive/wiki
+
 docs_dir: "docs"
+
 copyright: Feito com ❤️ pelo time Emperium.
 site_author: Emperium
-site_url: https://emp-interactive.github.io/wiki/
-repo_name: Emp-Interactive/wiki
-repo_url: https://github.com/Emp-Interactive/wiki
 
 theme:
   name: material
-  logo: images/logo.png
-  favicon: images/logo.png
   font:
     text: "Segoe UI"
     code: "Roboto Mono"
+  logo: images/logo.png
+  favicon: images/logo.png
   palette:
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      toggle:
-        icon: material/weather-night
-        name: Switch to dark mode
-      primary: black
-      accent: indigo
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to light mode
-      primary: black
-      accent: indigo
-  highlightjs: true
-  hljs_languages:
-    - yaml
-    - json
+    primary: black
+    accent: indigo
   features:
     - header.autohide
     - navigation.instant
@@ -44,39 +29,6 @@ theme:
     - content.tooltips
     - content.tabs.link
     - content.code.copy
-
-plugins:
-  - search
-  - glightbox
-  - minify:
-      minify_html: true
-  - social:
-      cards: true
-      cards_layout_options:
-        font_family: Roboto
-  - i18n:
-      default_language: pt  # Default language (Portuguese)
-      languages:
-        pt: Português
-        es: Español
-        en: English
-      nav_translations:
-        es:
-          Sobre o Servidor: Sobre el Servidor
-          Sistemas do Servidor: Sistemas del Servidor
-          Principais NPCs: NPCs Principales
-          Instâncias: Instancias
-          Guias e Suporte: Guías y Soporte
-          FAQ: Preguntas Frecuentes (FAQ)
-          Termos de Uso: Términos de Uso
-        en:
-          Sobre o Servidor: About the Server
-          Sistemas do Servidor: Server Systems
-          Principais NPCs: Main NPCs
-          Instâncias: Instances
-          Guias e Suporte: Guides & Support
-          FAQ: FAQ
-          Termos de Uso: Terms of Use
 
 extra:
   social:
@@ -94,8 +46,8 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - attr_list
   - md_in_html  
 
@@ -109,4 +61,48 @@ nav:
   - Instâncias: instances/index.md
   - Guias e Suporte: support/index.md
   - FAQ: faq.md
-  - Termos de Uso: faq/index.md
+  - Termos de Uso: terms.md
+
+plugins:
+  - search
+  - i18n:
+      docs_structure: suffix
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: pt
+          default: true
+          name: Português
+          build: true
+          site_name: "Emperium Wiki (PT)"
+        - locale: es
+          name: Español
+          build: true
+          site_name: "Emperium Wiki (ES)"
+          theme:
+            palette:
+              primary: red
+          nav_translations:
+            Sobre o Servidor: Sobre el Servidor
+            Sistemas do Servidor: Sistemas del Servidor
+            Principais NPCs: NPCs Principales
+            Instâncias: Instancias
+            Guias e Suporte: Guías y Soporte
+            FAQ: Preguntas Frecuentes (FAQ)
+            Termos de Uso: Términos de Uso
+        - locale: en
+          name: English
+          build: true
+          site_name: "Emperium Wiki (EN)"
+          theme:
+            palette:
+              primary: blue
+          nav_translations:
+            Sobre o Servidor: About the Server
+            Sistemas do Servidor: Server Systems
+            Principais NPCs: Main NPCs
+            Instâncias: Instances
+            Guias e Suporte: Guides & Support
+            FAQ: FAQ
+            Termos de Uso: Terms of Use
