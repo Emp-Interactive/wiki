@@ -14,21 +14,21 @@ theme:
     code: "Roboto Mono"
   logo: images/logo.png
   favicon: images/logo.png
-    palette:
-      - media: "(prefers-color-scheme: light)"
-        scheme: default
-        toggle:
-          icon: material/weather-night
-          name: Switch to dark mode
-        primary: black
-        accent: indigo
-      - media: "(prefers-color-scheme: dark)"
-        scheme: slate
-        toggle:
-          icon: material/weather-sunny
-          name: Switch to light mode
-        primary: black
-        accent: indigo
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+      primary: black
+      accent: indigo
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+      primary: black
+      accent: indigo
     highlightjs: true
     hljs_languages:
         - yaml
