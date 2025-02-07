@@ -1,35 +1,387 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-         <loc>https://emp-interactive.github.io/wiki/</loc>
-         <lastmod>2025-02-07</lastmod>
+        <loc>https://emp-interactive.github.io/wiki/es/</loc>
+        <lastmod>2025-02-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://emp-interactive.github.io/wiki/es/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emp-interactive.github.io/wiki/en/es/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://emp-interactive.github.io/wiki/es/es/"/>
     </url>
     <url>
-         <loc>https://emp-interactive.github.io/wiki/about/</loc>
-         <lastmod>2025-02-07</lastmod>
+        <loc>https://emp-interactive.github.io/wiki/es/about/</loc>
+        <lastmod>2025-02-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://emp-interactive.github.io/wiki/es/about/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emp-interactive.github.io/wiki/en/es/about/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://emp-interactive.github.io/wiki/es/es/about/"/>
     </url>
     <url>
-         <loc>https://emp-interactive.github.io/wiki/faq/</loc>
-         <lastmod>2025-02-07</lastmod>
+        <loc>https://emp-interactive.github.io/wiki/es/faq/</loc>
+        <lastmod>2025-02-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://emp-interactive.github.io/wiki/es/faq/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emp-interactive.github.io/wiki/en/es/faq/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://emp-interactive.github.io/wiki/es/es/faq/"/>
     </url>
     <url>
-         <loc>https://emp-interactive.github.io/wiki/guides/</loc>
-         <lastmod>2025-02-07</lastmod>
+        <loc>https://emp-interactive.github.io/wiki/es/guides/</loc>
+        <lastmod>2025-02-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://emp-interactive.github.io/wiki/es/guides/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emp-interactive.github.io/wiki/en/es/guides/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://emp-interactive.github.io/wiki/es/es/guides/"/>
     </url>
     <url>
-         <loc>https://emp-interactive.github.io/wiki/instances/</loc>
-         <lastmod>2025-02-07</lastmod>
+        <loc>https://emp-interactive.github.io/wiki/es/instances/</loc>
+        <lastmod>2025-02-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://emp-interactive.github.io/wiki/es/instances/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emp-interactive.github.io/wiki/en/es/instances/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://emp-interactive.github.io/wiki/es/es/instances/"/>
     </url>
     <url>
-         <loc>https://emp-interactive.github.io/wiki/npcs/</loc>
-         <lastmod>2025-02-07</lastmod>
+        <loc>https://emp-interactive.github.io/wiki/es/npcs/</loc>
+        <lastmod>2025-02-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://emp-interactive.github.io/wiki/es/npcs/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emp-interactive.github.io/wiki/en/es/npcs/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://emp-interactive.github.io/wiki/es/es/npcs/"/>
     </url>
     <url>
-         <loc>https://emp-interactive.github.io/wiki/support/</loc>
-         <lastmod>2025-02-07</lastmod>
+        <loc>https://emp-interactive.github.io/wiki/es/support/</loc>
+        <lastmod>2025-02-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://emp-interactive.github.io/wiki/es/support/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emp-interactive.github.io/wiki/en/es/support/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://emp-interactive.github.io/wiki/es/es/support/"/>
     </url>
     <url>
-         <loc>https://emp-interactive.github.io/wiki/systems/</loc>
-         <lastmod>2025-02-07</lastmod>
+        <loc>https://emp-interactive.github.io/wiki/es/systems/</loc>
+        <lastmod>2025-02-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://emp-interactive.github.io/wiki/es/systems/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emp-interactive.github.io/wiki/en/es/systems/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://emp-interactive.github.io/wiki/es/es/systems/"/>
+    </url>
+    <url>
+        <loc>https://emp-interactive.github.io/wiki/pt/</loc>
+        <lastmod>2025-02-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://emp-interactive.github.io/wiki/pt/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emp-interactive.github.io/wiki/en/pt/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://emp-interactive.github.io/wiki/es/pt/"/>
+    </url>
+    <url>
+        <loc>https://emp-interactive.github.io/wiki/pt/about/</loc>
+        <lastmod>2025-02-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://emp-interactive.github.io/wiki/pt/about/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emp-interactive.github.io/wiki/en/pt/about/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://emp-interactive.github.io/wiki/es/pt/about/"/>
+    </url>
+    <url>
+        <loc>https://emp-interactive.github.io/wiki/pt/faq/</loc>
+        <lastmod>2025-02-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://emp-interactive.github.io/wiki/pt/faq/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emp-interactive.github.io/wiki/en/pt/faq/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://emp-interactive.github.io/wiki/es/pt/faq/"/>
+    </url>
+    <url>
+        <loc>https://emp-interactive.github.io/wiki/pt/guides/</loc>
+        <lastmod>2025-02-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://emp-interactive.github.io/wiki/pt/guides/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emp-interactive.github.io/wiki/en/pt/guides/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://emp-interactive.github.io/wiki/es/pt/guides/"/>
+    </url>
+    <url>
+        <loc>https://emp-interactive.github.io/wiki/pt/instances/</loc>
+        <lastmod>2025-02-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://emp-interactive.github.io/wiki/pt/instances/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emp-interactive.github.io/wiki/en/pt/instances/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://emp-interactive.github.io/wiki/es/pt/instances/"/>
+    </url>
+    <url>
+        <loc>https://emp-interactive.github.io/wiki/pt/npcs/</loc>
+        <lastmod>2025-02-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://emp-interactive.github.io/wiki/pt/npcs/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emp-interactive.github.io/wiki/en/pt/npcs/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://emp-interactive.github.io/wiki/es/pt/npcs/"/>
+    </url>
+    <url>
+        <loc>https://emp-interactive.github.io/wiki/pt/support/</loc>
+        <lastmod>2025-02-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://emp-interactive.github.io/wiki/pt/support/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emp-interactive.github.io/wiki/en/pt/support/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://emp-interactive.github.io/wiki/es/pt/support/"/>
+    </url>
+    <url>
+        <loc>https://emp-interactive.github.io/wiki/pt/systems/</loc>
+        <lastmod>2025-02-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://emp-interactive.github.io/wiki/pt/systems/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emp-interactive.github.io/wiki/en/pt/systems/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://emp-interactive.github.io/wiki/es/pt/systems/"/>
+    </url>
+    <url>
+        <loc>https://emp-interactive.github.io/wiki/es/es/</loc>
+        <lastmod>2025-02-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://emp-interactive.github.io/wiki/es/es/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emp-interactive.github.io/wiki/en/es/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://emp-interactive.github.io/wiki/es/"/>
+    </url>
+    <url>
+        <loc>https://emp-interactive.github.io/wiki/es/es/about/</loc>
+        <lastmod>2025-02-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://emp-interactive.github.io/wiki/es/es/about/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emp-interactive.github.io/wiki/en/es/about/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://emp-interactive.github.io/wiki/es/about/"/>
+    </url>
+    <url>
+        <loc>https://emp-interactive.github.io/wiki/es/es/faq/</loc>
+        <lastmod>2025-02-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://emp-interactive.github.io/wiki/es/es/faq/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emp-interactive.github.io/wiki/en/es/faq/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://emp-interactive.github.io/wiki/es/faq/"/>
+    </url>
+    <url>
+        <loc>https://emp-interactive.github.io/wiki/es/es/guides/</loc>
+        <lastmod>2025-02-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://emp-interactive.github.io/wiki/es/es/guides/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emp-interactive.github.io/wiki/en/es/guides/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://emp-interactive.github.io/wiki/es/guides/"/>
+    </url>
+    <url>
+        <loc>https://emp-interactive.github.io/wiki/es/es/instances/</loc>
+        <lastmod>2025-02-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://emp-interactive.github.io/wiki/es/es/instances/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emp-interactive.github.io/wiki/en/es/instances/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://emp-interactive.github.io/wiki/es/instances/"/>
+    </url>
+    <url>
+        <loc>https://emp-interactive.github.io/wiki/es/es/npcs/</loc>
+        <lastmod>2025-02-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://emp-interactive.github.io/wiki/es/es/npcs/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emp-interactive.github.io/wiki/en/es/npcs/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://emp-interactive.github.io/wiki/es/npcs/"/>
+    </url>
+    <url>
+        <loc>https://emp-interactive.github.io/wiki/es/es/support/</loc>
+        <lastmod>2025-02-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://emp-interactive.github.io/wiki/es/es/support/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emp-interactive.github.io/wiki/en/es/support/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://emp-interactive.github.io/wiki/es/support/"/>
+    </url>
+    <url>
+        <loc>https://emp-interactive.github.io/wiki/es/es/systems/</loc>
+        <lastmod>2025-02-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://emp-interactive.github.io/wiki/es/es/systems/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emp-interactive.github.io/wiki/en/es/systems/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://emp-interactive.github.io/wiki/es/systems/"/>
+    </url>
+    <url>
+        <loc>https://emp-interactive.github.io/wiki/es/pt/</loc>
+        <lastmod>2025-02-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://emp-interactive.github.io/wiki/es/pt/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emp-interactive.github.io/wiki/en/pt/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://emp-interactive.github.io/wiki/pt/"/>
+    </url>
+    <url>
+        <loc>https://emp-interactive.github.io/wiki/es/pt/about/</loc>
+        <lastmod>2025-02-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://emp-interactive.github.io/wiki/es/pt/about/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emp-interactive.github.io/wiki/en/pt/about/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://emp-interactive.github.io/wiki/pt/about/"/>
+    </url>
+    <url>
+        <loc>https://emp-interactive.github.io/wiki/es/pt/faq/</loc>
+        <lastmod>2025-02-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://emp-interactive.github.io/wiki/es/pt/faq/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emp-interactive.github.io/wiki/en/pt/faq/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://emp-interactive.github.io/wiki/pt/faq/"/>
+    </url>
+    <url>
+        <loc>https://emp-interactive.github.io/wiki/es/pt/guides/</loc>
+        <lastmod>2025-02-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://emp-interactive.github.io/wiki/es/pt/guides/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emp-interactive.github.io/wiki/en/pt/guides/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://emp-interactive.github.io/wiki/pt/guides/"/>
+    </url>
+    <url>
+        <loc>https://emp-interactive.github.io/wiki/es/pt/instances/</loc>
+        <lastmod>2025-02-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://emp-interactive.github.io/wiki/es/pt/instances/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emp-interactive.github.io/wiki/en/pt/instances/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://emp-interactive.github.io/wiki/pt/instances/"/>
+    </url>
+    <url>
+        <loc>https://emp-interactive.github.io/wiki/es/pt/npcs/</loc>
+        <lastmod>2025-02-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://emp-interactive.github.io/wiki/es/pt/npcs/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emp-interactive.github.io/wiki/en/pt/npcs/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://emp-interactive.github.io/wiki/pt/npcs/"/>
+    </url>
+    <url>
+        <loc>https://emp-interactive.github.io/wiki/es/pt/support/</loc>
+        <lastmod>2025-02-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://emp-interactive.github.io/wiki/es/pt/support/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emp-interactive.github.io/wiki/en/pt/support/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://emp-interactive.github.io/wiki/pt/support/"/>
+    </url>
+    <url>
+        <loc>https://emp-interactive.github.io/wiki/es/pt/systems/</loc>
+        <lastmod>2025-02-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://emp-interactive.github.io/wiki/es/pt/systems/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emp-interactive.github.io/wiki/en/pt/systems/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://emp-interactive.github.io/wiki/pt/systems/"/>
+    </url>
+    <url>
+        <loc>https://emp-interactive.github.io/wiki/en/es/</loc>
+        <lastmod>2025-02-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emp-interactive.github.io/wiki/en/es/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://emp-interactive.github.io/wiki/es/es/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://emp-interactive.github.io/wiki/es/"/>
+    </url>
+    <url>
+        <loc>https://emp-interactive.github.io/wiki/en/es/about/</loc>
+        <lastmod>2025-02-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emp-interactive.github.io/wiki/en/es/about/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://emp-interactive.github.io/wiki/es/es/about/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://emp-interactive.github.io/wiki/es/about/"/>
+    </url>
+    <url>
+        <loc>https://emp-interactive.github.io/wiki/en/es/faq/</loc>
+        <lastmod>2025-02-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emp-interactive.github.io/wiki/en/es/faq/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://emp-interactive.github.io/wiki/es/es/faq/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://emp-interactive.github.io/wiki/es/faq/"/>
+    </url>
+    <url>
+        <loc>https://emp-interactive.github.io/wiki/en/es/guides/</loc>
+        <lastmod>2025-02-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emp-interactive.github.io/wiki/en/es/guides/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://emp-interactive.github.io/wiki/es/es/guides/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://emp-interactive.github.io/wiki/es/guides/"/>
+    </url>
+    <url>
+        <loc>https://emp-interactive.github.io/wiki/en/es/instances/</loc>
+        <lastmod>2025-02-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emp-interactive.github.io/wiki/en/es/instances/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://emp-interactive.github.io/wiki/es/es/instances/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://emp-interactive.github.io/wiki/es/instances/"/>
+    </url>
+    <url>
+        <loc>https://emp-interactive.github.io/wiki/en/es/npcs/</loc>
+        <lastmod>2025-02-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emp-interactive.github.io/wiki/en/es/npcs/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://emp-interactive.github.io/wiki/es/es/npcs/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://emp-interactive.github.io/wiki/es/npcs/"/>
+    </url>
+    <url>
+        <loc>https://emp-interactive.github.io/wiki/en/es/support/</loc>
+        <lastmod>2025-02-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emp-interactive.github.io/wiki/en/es/support/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://emp-interactive.github.io/wiki/es/es/support/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://emp-interactive.github.io/wiki/es/support/"/>
+    </url>
+    <url>
+        <loc>https://emp-interactive.github.io/wiki/en/es/systems/</loc>
+        <lastmod>2025-02-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emp-interactive.github.io/wiki/en/es/systems/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://emp-interactive.github.io/wiki/es/es/systems/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://emp-interactive.github.io/wiki/es/systems/"/>
+    </url>
+    <url>
+        <loc>https://emp-interactive.github.io/wiki/en/pt/</loc>
+        <lastmod>2025-02-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emp-interactive.github.io/wiki/en/pt/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://emp-interactive.github.io/wiki/es/pt/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://emp-interactive.github.io/wiki/pt/"/>
+    </url>
+    <url>
+        <loc>https://emp-interactive.github.io/wiki/en/pt/about/</loc>
+        <lastmod>2025-02-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emp-interactive.github.io/wiki/en/pt/about/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://emp-interactive.github.io/wiki/es/pt/about/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://emp-interactive.github.io/wiki/pt/about/"/>
+    </url>
+    <url>
+        <loc>https://emp-interactive.github.io/wiki/en/pt/faq/</loc>
+        <lastmod>2025-02-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emp-interactive.github.io/wiki/en/pt/faq/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://emp-interactive.github.io/wiki/es/pt/faq/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://emp-interactive.github.io/wiki/pt/faq/"/>
+    </url>
+    <url>
+        <loc>https://emp-interactive.github.io/wiki/en/pt/guides/</loc>
+        <lastmod>2025-02-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emp-interactive.github.io/wiki/en/pt/guides/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://emp-interactive.github.io/wiki/es/pt/guides/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://emp-interactive.github.io/wiki/pt/guides/"/>
+    </url>
+    <url>
+        <loc>https://emp-interactive.github.io/wiki/en/pt/instances/</loc>
+        <lastmod>2025-02-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emp-interactive.github.io/wiki/en/pt/instances/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://emp-interactive.github.io/wiki/es/pt/instances/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://emp-interactive.github.io/wiki/pt/instances/"/>
+    </url>
+    <url>
+        <loc>https://emp-interactive.github.io/wiki/en/pt/npcs/</loc>
+        <lastmod>2025-02-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emp-interactive.github.io/wiki/en/pt/npcs/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://emp-interactive.github.io/wiki/es/pt/npcs/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://emp-interactive.github.io/wiki/pt/npcs/"/>
+    </url>
+    <url>
+        <loc>https://emp-interactive.github.io/wiki/en/pt/support/</loc>
+        <lastmod>2025-02-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emp-interactive.github.io/wiki/en/pt/support/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://emp-interactive.github.io/wiki/es/pt/support/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://emp-interactive.github.io/wiki/pt/support/"/>
+    </url>
+    <url>
+        <loc>https://emp-interactive.github.io/wiki/en/pt/systems/</loc>
+        <lastmod>2025-02-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emp-interactive.github.io/wiki/en/pt/systems/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://emp-interactive.github.io/wiki/es/pt/systems/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://emp-interactive.github.io/wiki/pt/systems/"/>
     </url>
 </urlset>
