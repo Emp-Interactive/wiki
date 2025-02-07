@@ -54,6 +54,13 @@ plugins:
       cards: true
       cards_layout_options:
         font_family: Roboto
+  - i18n:
+      default_language: pt
+      languages:
+        pt: Português
+        es: Español
+        en: English
+      docs_structure: folder
 
 extra:
   social:
@@ -80,10 +87,19 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/@glidejs/glide
 
 nav:
-  - Sobre o Servidor: about/index.md
-  - Sistemas do Servidor: systems/index.md
-  - Principais NPCs: npcs/index.md
-  - Instâncias: instances/index.md
-  - Guias e Suporte: support/index.md
-  - FAQ: faq.md
-  - Termos de Uso: faq/index.md
+  pt:
+    - Sobre o Servidor: pt/about/index.md
+    - Sistemas do Servidor: pt/systems/index.md
+    - Principais NPCs: pt/npcs/index.md
+    - Instâncias: pt/instances/index.md
+    - Guias e Suporte: pt/support/index.md
+    - FAQ: pt/faq.md
+    - Termos de Uso: pt/terms.md
+  es:
+    - Sobre el Servidor: es/about/index.md
+    - Sistemas del Servidor: es/systems/index.md
+    - NPCs Principales: es/npcs/index.md
+    - Instancias: es/instances/index.md
+    - Guías y Soporte: es/support/index.md
+    - Preguntas Frecuentes (FAQ): es/faq.md
+    - Términos de Uso: es/terms.md
