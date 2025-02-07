@@ -38,11 +38,11 @@ jobs:
           python -m pip install mkdocs-material==9.5.21 \
             mkdocs-include-markdown-plugin==6.0.6 \
             mkdocs-awesome-pages-plugin==2.9.2 \
-            mkdocs-material \
-            mkdocs-glightbox \
-            mkdocs-minify-plugin \
-            mkdocs-material-extensions \
-            pillow cairosvg 
+            mkdocs-glightbox==0.4.0 \
+            mkdocs-minify-plugin==0.8.0 \
+            mkdocs-material-extensions==1.3.1 \
+            pillow==11.1.0 \
+            cairosvg==2.7.1 
 
       - name: git config
         run: |
@@ -50,3 +50,4 @@ jobs:
           git config --local user.name "GitHub Action"
 
       - run: mkdocs gh-deploy --force
+        working-directory: ./docs
