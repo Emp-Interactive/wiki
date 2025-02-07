@@ -29,11 +29,11 @@ theme:
         name: Switch to light mode
       primary: black
       accent: indigo
-    highlightjs: true
-    hljs_languages:
-        - yaml
-        - json
-        - bash
+  highlightjs: true
+  hljs_languages:
+      - yaml
+      - json
+      - bash
   features:
     - header.autohide
     - navigation.instant
