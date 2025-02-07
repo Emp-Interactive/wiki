@@ -1,4 +1,4 @@
-site_name: Emperium Ragnarok Wiki
+site_name: Emperium Wiki
 docs_dir: "docs"
 copyright: Feito com ❤️ pelo time Emperium.
 site_author: Emperium
@@ -80,9 +80,10 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/@glidejs/glide
 
 nav:
-  - SOBRE O SERVIDOR: docs/about/index.md
-  # - SISTEMAS DO SERVIDOR: docs/systems/index.md
-  # - PRINCIPAIS NPCs: docs/npcs/index.md
-  # - INSTÂNCIAS: docs/instances/index.md
-  # - GUIAS E SUPPORT: docs/support/index.md
-  # - TERMOS DE USO: docs/faq/index.md
+  - Sobre o Servidor: about/index.md
+  - Sistemas do Servidor: systems/index.md
+  - Principais NPCs: npcs/index.md
+  - Instâncias: instances/index.md
+  - Guias e Suporte: support/index.md
+  - FAQ: faq.md
+  - Termos de Uso: faq/index.md
