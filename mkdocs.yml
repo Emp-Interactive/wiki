@@ -99,11 +99,11 @@ plugins:
           default: true
           name: Português
           build: true
-          site_name: "Emperium Wiki (PT)"
+          site_name: "Emperium Wiki"
         - locale: es
           name: Español
           build: true
-          site_name: "Emperium Wiki (ES)"
+          site_name: "Emperium Wiki"
           theme:
             palette:
               primary: red
